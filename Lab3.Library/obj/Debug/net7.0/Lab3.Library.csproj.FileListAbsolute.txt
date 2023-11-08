@@ -1,0 +1,14 @@
+C:\Users\maxam\OneDrive\Документы\ООП\Lab3\Lab3.Library\bin\Debug\net7.0\Lab3.Library.deps.json
+C:\Users\maxam\OneDrive\Документы\ООП\Lab3\Lab3.Library\bin\Debug\net7.0\Lab3.Library.runtimeconfig.json
+C:\Users\maxam\OneDrive\Документы\ООП\Lab3\Lab3.Library\bin\Debug\net7.0\Lab3.Library.dll
+C:\Users\maxam\OneDrive\Документы\ООП\Lab3\Lab3.Library\bin\Debug\net7.0\Lab3.Library.pdb
+C:\Users\maxam\OneDrive\Документы\ООП\Lab3\Lab3.Library\obj\Debug\net7.0\Lab3.Library.csproj.AssemblyReference.cache
+C:\Users\maxam\OneDrive\Документы\ООП\Lab3\Lab3.Library\obj\Debug\net7.0\Lab3.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxam\OneDrive\Документы\ООП\Lab3\Lab3.Library\obj\Debug\net7.0\Lab3.Library.AssemblyInfoInputs.cache
+C:\Users\maxam\OneDrive\Документы\ООП\Lab3\Lab3.Library\obj\Debug\net7.0\Lab3.Library.AssemblyInfo.cs
+C:\Users\maxam\OneDrive\Документы\ООП\Lab3\Lab3.Library\obj\Debug\net7.0\Lab3.Library.csproj.CoreCompileInputs.cache
+C:\Users\maxam\OneDrive\Документы\ООП\Lab3\Lab3.Library\obj\Debug\net7.0\Lab3.Library.dll
+C:\Users\maxam\OneDrive\Документы\ООП\Lab3\Lab3.Library\obj\Debug\net7.0\refint\Lab3.Library.dll
+C:\Users\maxam\OneDrive\Документы\ООП\Lab3\Lab3.Library\obj\Debug\net7.0\Lab3.Library.pdb
+C:\Users\maxam\OneDrive\Документы\ООП\Lab3\Lab3.Library\obj\Debug\net7.0\Lab3.Library.genruntimeconfig.cache
+C:\Users\maxam\OneDrive\Документы\ООП\Lab3\Lab3.Library\obj\Debug\net7.0\ref\Lab3.Library.dll
